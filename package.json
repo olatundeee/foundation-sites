@@ -18,7 +18,7 @@
     "deploy:beta": "gulp deploy:beta"
   },
   "dependencies": {
-    "jquery": ">=2.2.0",
+    "jquery": ">=3.0.0",
     "what-input": "^4.0.3"
   },
   "license": "MIT",
